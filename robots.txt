@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vpn-status.example.com/sitemap.xml
